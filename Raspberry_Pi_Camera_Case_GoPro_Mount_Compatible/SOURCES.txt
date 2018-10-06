@@ -1,0 +1,4 @@
+Sources for Raspberry Pi Camera Case, GoPro Mount Compatible
+
+Octoprint + Raspberry Pi Camera case and mounting bracket for Wanhao Duplicator i3 (https://www.thingiverse.com/thing:2001441)
+Modular Mounting System (https://www.thingiverse.com/thing:2194278)

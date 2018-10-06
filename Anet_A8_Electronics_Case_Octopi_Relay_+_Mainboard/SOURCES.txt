@@ -1,0 +1,5 @@
+Sources for Anet A8 Electronics Case (Octopi, Relay + Mainboard)
+
+Anet A8 Electronics Enclosure (http://www.thingiverse.com/thing:1732414)
+Raspberry Pi Camera for 3D Printer (http://www.thingiverse.com/thing:267265)
+Raspberry Pi 3 Mount (http://www.thingiverse.com/thing:1590158)

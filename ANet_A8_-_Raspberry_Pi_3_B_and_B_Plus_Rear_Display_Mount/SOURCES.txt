@@ -1,0 +1,6 @@
+Sources for ANet A8 - Raspberry Pi 3 B and B Plus Rear Display Mount
+
+Rear Anet A8 LCD mount for Raspberry Pi 3 with camera (IMPROVED) (https://www.thingiverse.com/thing:2238022)
+Case backplate for Raspberry Pi Camera v2.1 (https://www.thingiverse.com/thing:2307685)
+Anet A8 Pi Camera Mount Extension (https://www.thingiverse.com/thing:2257616)
+Rear Anet A8 LCD mount for Raspberry Pi 3 with camera (https://www.thingiverse.com/thing:2185490)

@@ -1,0 +1,4 @@
+Sources for Anet A8 Electronic Box AiO (ATX PSU, mainboard, Raspberry Pi, Dual Mosfet and LCD)
+
+Anet a8 External case for electronics (https://www.thingiverse.com/thing:2536142)
+Anet A8 Rpi camera Bed mount (https://www.thingiverse.com/thing:1867549)

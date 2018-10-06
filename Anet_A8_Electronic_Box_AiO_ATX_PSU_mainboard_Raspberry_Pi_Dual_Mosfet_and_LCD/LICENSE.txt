@@ -1,0 +1,3 @@
+Anet A8 Electronic Box AiO (ATX PSU, mainboard, Raspberry Pi, Dual Mosfet and LCD) (https://www.thingiverse.com/thing:2840931) by Kharn is licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/3.0/
+
